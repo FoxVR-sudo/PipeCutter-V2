@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="ChatGPT Image Nov 20, 2025, 12_57_27 PM" src="https://github.com/user-attachments/assets/1e845841-ebb2-4d30-93ef-eca40b4cc7b9" />
+
 # PipeCutter
 
 PipeCutter е професионален комерсиален софтуер за оптимизация на разкрой на тръби.  
